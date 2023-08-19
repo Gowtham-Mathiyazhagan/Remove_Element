@@ -1,0 +1,6 @@
+table{
+   display: flex;
+   justify-content: center;
+   background-color: beige;
+   margin-top: 100px;
+}
